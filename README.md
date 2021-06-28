@@ -15,46 +15,46 @@ PhoneSploit
 
 ### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ : 
 ```
-$ pkg up -y 
+ pkg up -y 
 ```
 ```
-$ pkg install git -y 
+ pkg install git -y 
 ```
 ```
-$ pkg install python -y 
+ pkg install python -y 
 ```
 ```
-$ pkg install openssl-tool 
+ pkg install openssl-tool 
 ```
 ```
-$ pkg install wget -y 
+ pkg install wget -y 
 ```
 ```
-$ pip install colorama 
+ pip install colorama 
 ```
 ```
-$ git clone https://github.com/MasterDevX/Termux-ADB 
+ git clone https://github.com/MasterDevX/Termux-ADB 
 ```
 ```
-$ cd Termux-ADB 
+ cd Termux-ADB 
 ```
 ```
-$ chmod 777 InstallTools.sh 
+ chmod 777 InstallTools.sh 
 ```
 ```
-$ bash InstallTools.sh 
+ bash InstallTools.sh 
 ```
 ```
-$ cd $HOME 
+ cd $HOME 
 ```
 ```
-$ git clone https://github.com/aerosol-can/PhoneSploit 
+ git clone https://github.com/aerosol-can/PhoneSploit 
 ```
 ```
-$ cd PhoneSploit 
+ cd PhoneSploit 
 ```
 ```
-$ python phonesploit.py
+ python phonesploit.py
 ```
 
 ### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
